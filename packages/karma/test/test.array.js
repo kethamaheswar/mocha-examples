@@ -1,4 +1,4 @@
-const expect = chai.expect;
+const expect = require('chai').expect;
 
 describe('Array', function () {
   describe('.push()', function () {
